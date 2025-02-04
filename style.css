@@ -11,10 +11,8 @@
     align-items: center;
 }
 
-
 .sign-in {
     width: 50%;
-    
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -31,8 +29,8 @@
     align-items: center;
     color: white;
 }
+
 .page-1, .page-2 {
-    
     width: 80%;
 }
 
